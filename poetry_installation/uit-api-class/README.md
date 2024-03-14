@@ -37,8 +37,8 @@
 ### **Step 8:** 
 - Now create a new file named **main.py**
 
-### **Step 9: After creating main.py file run command:** 
-- `poetry install in your terminal`
+### **Step 9: After creating main.py file run this command in your terminal:** 
+- `poetry install`
 
 ### **Step 9 (optional):** 
 - Check the version of python with the command `poetry run python --version`
